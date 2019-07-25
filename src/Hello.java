@@ -6,5 +6,7 @@ public class Hello {
         System.out.println("What is going on with you?");
 
         System.out.println("This is confusing");
+
+        System.out.println("This is another branch to test git");
     }
 }
